@@ -1,3 +1,23 @@
+# validate-npm-package-name源码阅读
+
+阅读文件：
+  **index.js**
+
+附有注释笔记
+部分注释参考自：https://zhuanlan.zhihu.com/p/362147023
+
+
+
+
+
+
+
+
+
+
+
+
+
 # validate-npm-package-name
 
 Give me a string and I'll tell you if it's a valid `npm` package name.
